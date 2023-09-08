@@ -1,0 +1,9 @@
+iframe {
+  position: relative;
+  bottom: 80px;
+}
+.map-1 {
+  background-color: white;
+  height: 700px;
+  position: relative;
+}

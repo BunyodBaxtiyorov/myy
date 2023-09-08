@@ -1,0 +1,99 @@
+.mySwiperr .swiper {
+  /* background-color: red; */
+  width: 1200px;
+  height: 100px;
+  position: relative;
+  bottom: 30px;
+}
+
+.mySwiperr .swiper-slide {
+  /* text-align: center; */
+  font-size: 18px;
+  background: none;
+  border: 2px solid #e6e6e6;
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} */
+.mySwiperr .h11 {
+  position: relative;
+  bottom: 40px;
+  color: #6aaf2d;
+  z-index: 2000;
+  left: 125px;
+  width: 600px;
+}
+.mySwiperr {
+  position: relative;
+  bottom: 255px;
+  background: #f1f1f1 !important;
+}
+.mySwiperr .swiper-button-prev {
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* margin-top: 0px; */
+
+  margin-left: 1050px;
+  color: #6aaf2d;
+  background: none;
+  font-size: 12px;
+  width: 50px;
+  height: 60px;
+}
+.mySwiperr .swiper-button-next {
+  /* margin-top: 0px; */
+  background: none;
+  width: 50px;
+  height: 60px;
+  color: #6aaf2d;
+  /* margin-left: 1100px; */
+}
+.mySwiperr .pupil {
+  display: flex;
+  position: relative;
+  right: 500px;
+  top: 20px;
+}
+.mySwiperr .ic {
+  position: relative;
+  top: 18px;
+  /* right: 10xp; */
+}
+.mySwiperr .pupil .pppp {
+  position: relative;
+  bottom: 40px;
+  left: 10px;
+}
+.mySwiperr .pupil .oooo {
+  position: relative;
+  bottom: 0px;
+  left: 300px;
+}
+.mySwiperr .pupil .ssss {
+  position: relative;
+  /* bottom: 40px; */
+  left: 100px;
+}
+.mySwiperr .oli {
+  position: relative;
+  right: 360px;
+}
+.mySwiperr .nodir {
+  position: relative;
+  right: 100px;
+}
+.mySwiperr .swiper-pagination-bullet {
+  background: none;
+}
+.swiper-wrapper {
+  width: 120px;
+}

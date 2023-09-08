@@ -1,0 +1,58 @@
+.Gall {
+  background-color: #f5f6f6;
+  color: black;
+  position: relative;
+  bottom: 230px;
+  height: 800px;
+}
+.Gall h1 {
+  display: flex;
+  text-align: center;
+  /* color: white; */
+  width: 600px;
+  top: 60px;
+  font-size: 35px;
+  position: relative;
+  left: 40%;
+}
+.Gall span {
+  color: #6aaf2d;
+  margin-left: 10px;
+}
+.Gall p {
+  text-align: center;
+  position: relative;
+  top: 100px;
+  /* color: white; */
+}
+.Image {
+  display: flex;
+  position: relative;
+  width: 360px;
+  position: relative;
+  top: 100px;
+  /* overflow: hidden; */
+}
+.Image img {
+  width: 360px; /* 100% to'liq ekran eng to'liq bo'lganiga */
+  transition: transform 0.3s; /* O'zgarishlar uchun animatsiya */
+}
+.Image img:hover {
+  transform: scale(1.1); /* Rasmni 1.1 marta yaqinlash */
+  width: 360px;
+  transition: transform 4s; /* O'zgarishni yumshatish animatsiyasi */
+}
+.Image-2 {
+  display: flex;
+  position: relative;
+  top: 100px;
+}
+.Image-2 img {
+  width: 360px;
+}
+
+.Image-2 img:hover {
+  transform: scale(1.1); /* Rasmni 1.1 marta yaqinlash */
+  width: 360px;
+  transition: transform 4s; /* O'zgarishni yumshatish animatsiyasi */
+}

@@ -1,0 +1,13 @@
+.blog-3 {
+  position: relative;
+  bottom: 200px;
+}
+.blog-3 #blog-2 {
+  text-align: center;
+}
+.blog-3 #blog-2 span {
+  color: #6aaf2d;
+}
+.blog-3 #blog-4 {
+  text-align: center;
+}

@@ -1,0 +1,75 @@
+.Gazon-1 {
+  background-color: white;
+  color: black;
+  position: relative;
+  top: 100px;
+  height: 1500px;
+  position: relative;
+  /* width: 10; */
+  /* left: 100px; */
+}
+.Gazon-1 h1 {
+  text-align: center;
+  position: relative;
+  bottom: 50px;
+  font-size: 25px;
+}
+.Gazon-1 p {
+  text-align: center;
+  position: relative;
+  bottom: 50px;
+}
+.yy {
+  background-color: #6aaf2d;
+  width: 50px; /* O'zgartirilgan */
+  height: 220px; /* O'zgartirilgan */
+  border: none;
+  text-orientation: mixed;
+  writing-mode: vertical-rl;
+  white-space: nowrap;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(-180deg);
+  font-size: 24px;
+}
+.yyy {
+  background-color: #f6f6f6;
+  width: 50px; /* O'zgartirilgan */
+  height: 220px; /* O'zgartirilgan */
+  border: none;
+  text-orientation: mixed;
+  writing-mode: vertical-rl;
+  white-space: nowrap;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(-180deg);
+  font-size: 24px;
+}
+
+.but {
+  position: relative;
+  top: 420px;
+  left: 80px;
+}
+.Gazon-2 {
+  position: relative;
+  bottom: 300px;
+  left: 20px;
+}
+.Gazon-2 img {
+  position: relative;
+  left: 200px;
+  width: 1100px;
+  bottom: 50px;
+}
+.Gazon-2 p {
+  position: relative;
+  left: 20px;
+}
+.Gazon-1 .ippp {
+  width: 1280px;
+}
